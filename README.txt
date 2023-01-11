@@ -1,4 +1,6 @@
-```
+Copy-paste template for implementing an easily-managed service on a server.
+Assumes a server with many services running on it.
+
 /
 L> root/ # the user
    L> bin/ # personal folder
@@ -11,4 +13,3 @@ L> root/ # the user
          L> backup/ # auto-generated if missing
       L> example2/
          L> ...
-```
